@@ -1,4 +1,4 @@
-/*This was the alternative code that i initially wrote but not all functionalities were working 
+/*This was the ALTERNATIVE code that i wrote but not all functionalities were working but the code is more simple and gets the job done for beginner 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
