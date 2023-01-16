@@ -1,11 +1,18 @@
 ## Calculeta
 Calculeta is a simple calculator app that is capable of:
+
 -Addition (+)
+
 -Subtraction (-)
+
 -Multiplication (*)
+
 -Division (/)
+
 -Clear (C)
+
 -Equals to (=)
+
 -Percentage (%)
 
 #### Gameplay Demo
